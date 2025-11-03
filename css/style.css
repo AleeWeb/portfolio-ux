@@ -143,19 +143,19 @@ font-size: 28px;
 
 
 .bg-marketplace {
-  background-image: url('images/hero_bgr_market.jpg');
+  background-image: url('/portfolio-ux/portfolio-ux/images/hero_bgr_market.jpg');
   background-position-y: -60px;
 }
 
 .bg-notif {
-   background: url('images/hero_bgr_csnotif2.png');
+   background: url('/portfolio-ux/portfolio-ux/images/hero_bgr_csnotif2.png');
    background-size: cover;
-  /* background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85)), url('/images/hero_bgr_csnotif.png'); */
+  /* background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85)), url('/portfolio-ux/images/hero_bgr_csnotif.png'); */
 }
 
 
 .bg-govex {
-  background-image: url('images/hero_bgr_csgovex.png');
+  background-image: url('/portfolio-ux/portfolio-ux/images/hero_bgr_csgovex.png');
 }
 
 
@@ -284,7 +284,7 @@ img {
 
 
 .challenges-section ul li:before {
-  content: url(/images/icon/xicon.svg);
+  content: url(/portfolio-ux/images/icon/xicon.svg);
   display: inline-block;
   position: relative;
   left: 0;
@@ -554,7 +554,7 @@ img {
   margin-top: -1em;
 }
 .left-border-quote:after {
-  content: url("/images/icon/quote-left-solid.svg");
+  content: url("/portfolio-ux/images/icon/quote-left-solid.svg");
   position: absolute;
   top: 50%;
   left: -0.5em;
@@ -572,16 +572,16 @@ img {
   display: none;
 }
 .left-border-quote.book:after {
-  content: url("/images/icon/quote-left-solid.svg");
+  content: url("/portfolio-ux/images/icon/quote-left-solid.svg");
 }
 .left-border-quote.podcast:after {
-  content: url("/images/icon/quote-left-solid.svg");
+  content: url("/portfolio-ux/images/icon/quote-left-solid.svg");
 }
 .left-border-quote.lyrics:after {
-  content: url("/images/icon/quote-left-solid.svg");
+  content: url("/portfolio-ux/images/icon/quote-left-solid.svg");
 }
 blockquote.favorite:after {
-  content: url("/images/icon/quote-left-solid.svg");
+  content: url("/portfolio-ux/images/icon/quote-left-solid.svg");
 }
 .left-border-quote:active:after {
   transform: rotateY(360deg);
@@ -1119,7 +1119,7 @@ blockquote.favorite:after {
   position: absolute;
   left: 0;
   top: 10px;
-  background: url(../images/shape/shape_52.svg) no-repeat center;
+  background: url(../portfolio-ux/images/shape/shape_52.svg) no-repeat center;
   background-size: contain;
   z-index: 1;
 }
@@ -2884,7 +2884,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .vcamp-footer-one .subscribe-area .subscribe-form p a {color: var(--heading);}
 .vcamp-footer-one .subscribe-area .subscribe-form p a:hover {text-decoration: underline;}
 .vcamp-footer-one .subscribe-area-two {
-  background: url(../images/media/img_39.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_39.jpg) no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -2976,7 +2976,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   color: #fff;
 }
 .vcamp-footer-one.dark-bg.image-bg {
-  background-image: url(../images/shape/bg-1.png);
+  background-image: url(../portfolio-ux/images/shape/bg-1.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2999,7 +2999,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .vcamp-footer-one.dark-bg .bottom-footer {padding-top: 90px;}
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Hero Banner Two ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .hero-banner-two {
-  background: url(../images/shape/shape_02.svg) no-repeat center;
+  background: url(../portfolio-ux/images/shape/shape_02.svg) no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 2;
@@ -3193,7 +3193,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .card-style-four p {font-size: 17px; line-height: 1.76em; color: #4F4F4F; margin-bottom: 0;}
 /*^^^^^^^^^^^^^^^^^^^^^ Feedback Slider Four ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .feedback-section-four {
-  background: url(../images/shape/shape_07.svg) no-repeat center;
+  background: url(../portfolio-ux/images/shape/shape_07.svg) no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -3369,7 +3369,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Hero Banner Three ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .hero-banner-three {
   background-color: #161616;
-  background-image: url(../images/shape/bg-1.png);
+  background-image: url(../portfolio-ux/images/shape/bg-1.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3590,7 +3590,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 /*^^^^^^^^^^^^^^^^^^^^^ Contact Section Three ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .contact-section-three {position: relative; z-index: 6;}
 .contact-section-three.image-bg {
-  background: url(../images/media/img_88.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_88.jpg) no-repeat center;
   background-size: cover;
 }
 .contact-section-three.image-bg:before {
@@ -3878,11 +3878,11 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 }
 /*^^^^^^^^^^^^^^^^^^^^^ Vcamp Text Block Four ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .vcamp-text-block-four .left-side {
-  background: url(../images/media/img_23.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_23.jpg) no-repeat center;
   background-size: cover;
 }
 .vcamp-text-block-four .right-side {
-  background: url(../images/media/img_24.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_24.jpg) no-repeat center;
   background-size: cover;
 }
 .vcamp-text-block-four .right-side .content-wrapper:before {
@@ -4195,7 +4195,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .team-section-one .mixitUp-container {margin: 0 -20px;}
 /*^^^^^^^^^^^^^^^^^^^^^ Vcamp Fancy Banner One ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-banner-one {
-  background: url(../images/media/img_30.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_30.jpg) no-repeat center;
   background-size: cover;
   position: relative;
 }
@@ -4412,7 +4412,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .case-block-two:hover .hover-content {opacity: 1;}
 /*^^^^^^^^^^^^^^^^^^^^^ Vcamp Fancy Banner Two ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-banner-two {
-  background: url(../images/media/img_35.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_35.jpg) no-repeat center;
   background-size: cover;
   height: 800px;
 }
@@ -4562,7 +4562,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .blog-meta-three .post-footer .read-more:hover {transform: translateX(-5px);}
 /*^^^^^^^^^^^^^^^^^^^^^ Vcamp Fancy Banner Three ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-banner-three {
-  background: url(../images/media/img_39.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_39.jpg) no-repeat center;
   background-size: cover;
   position: relative;
 }
@@ -5103,7 +5103,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   text-align: center;
 }
 .pricing-table-area-one .pr-table-wrapper.most-popular:after {
-  content: url(../images/shape/popular-tag.svg);
+  content: url(../portfolio-ux/images/shape/popular-tag.svg);
   position: absolute;
   top: -97px;
   right: -87px;
@@ -5150,7 +5150,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   padding-left: 30px;
 }
 .pricing-table-area-one .pr-table-wrapper .pr-feature li:before {
-  content: url(../images/icon/icon_51.svg);
+  content: url(../portfolio-ux/images/icon/icon_51.svg);
   position: absolute;
   top: 0;
   left: 0;
@@ -5189,8 +5189,8 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .pricing-section-one.dark-bg .pr-table-wrapper:not(.active) .trial-text {color: rgba(255, 255, 255, 0.5);}
 .pricing-section-one.dark-bg .pr-table-wrapper:not(.active) .top-banner {background: rgba(255, 255, 255, 0.15);}
 .pricing-section-one.dark-bg .pr-table-wrapper:not(.active) .trial-button {border-color: #fff;}
-.pricing-section-one.dark-bg .pr-table-wrapper:not(.active) .pr-feature li:before {content: url(../images/icon/icon_54.svg);}
-.pricing-section-one.dark-bg .pr-table-wrapper.most-popular:after {content: url(../images/shape/popular-tag-w.svg);}
+.pricing-section-one.dark-bg .pr-table-wrapper:not(.active) .pr-feature li:before {content: url(../portfolio-ux/images/icon/icon_54.svg);}
+.pricing-section-one.dark-bg .pr-table-wrapper.most-popular:after {content: url(../portfolio-ux/images/shape/popular-tag-w.svg);}
 .pricing-section-one.dark-bg .pr-table-wrapper.active {background: #fff;}
 .pricing-section-one.dark-bg .pr-table-wrapper.active .top-banner {background: #FFEFEF;}
 .pricing-section-one.dark-bg .pr-table-wrapper .trial-button:hover {background: var(--red-one); border-color: var(--red-one);}
@@ -5248,7 +5248,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .accordion-style-two .accordion-body {padding: 0 50px 25px 0;}
 .accordion-style-two .accordion-body p {font-size: 20px;line-height: 1.8em; margin-bottom: 0;}
 .accordion-style-two .accordion-button::after {
-  content: url(../images/icon/icon_53.svg);
+  content: url(../portfolio-ux/images/icon/icon_53.svg);
   background-image: none;
   width: auto;
   height: auto;
@@ -5922,7 +5922,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   color: #D4D4D4;
 }
 .accordion-style-three .accordion-button::after {
-  content: url(../images/icon/icon_66.svg);
+  content: url(../portfolio-ux/images/icon/icon_66.svg);
   background-image: none;
   width: auto;
   height: auto;
@@ -6091,7 +6091,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   padding: 40px 12px;
   position: relative;
   z-index: 5;
-  background: url(../images/assets/bg_01.png) no-repeat center;
+  background: url(../portfolio-ux/images/assets/bg_01.png) no-repeat center;
   background-size: cover;
   overflow-x: hidden;
 }
@@ -6389,7 +6389,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   position: absolute;
   left: 0;
   top: 10px;
-  background: url(../images/shape/shape_52.svg) no-repeat center;
+  background: url(../portfolio-ux/images/shape/shape_52.svg) no-repeat center;
   background-size: contain;
   z-index: 1;
 }
@@ -6688,7 +6688,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   padding-left: 35px;
 }
 .vcamp-text-block-twelve .text-wrapper ul li:before {
-  content: url(../images/icon/xicon.svg);
+  content: url(../portfolio-ux/images/icon/xicon.svg);
   position: absolute;
   left: 0;
   top: 1px;
@@ -6727,7 +6727,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .vcamp-text-block-twelve.dark-bg .text-wrapper ul li {color: #fff;}
 .vcamp-text-block-twelve.dark-bg .text-wrapper ul li span {color: #fff;}
 .vcamp-text-block-twelve.dark-bg .text-wrapper ul li:before {
-    content: url("/images/icon/xicon.svg");
+    content: url("/portfolio-ux/images/icon/xicon.svg");
     font-family: bootstrap-icons;
     width: 18px;
     height: 18px;
@@ -7316,7 +7316,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 }
 .breadcrumb-style-one .breadcrumb-item.active {font-family: 'gorditamedium'; color: #000;}
 .breadcrumb-style-one .breadcrumb-item+.breadcrumb-item::before {
-  content: url(../images/icon/icon_77.svg);
+  content: url(../portfolio-ux/images/icon/icon_77.svg);
   margin-top: 1px;
 }
 .breadcrumb-style-one .breadcrumb-item a:hover {text-decoration: underline;}
@@ -7682,7 +7682,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   padding-left: 30px;
 }
 .product-details-one .product-info .product-feature li:before {
-  content: url(../images/icon/icon_82.svg);
+  content: url(../portfolio-ux/images/icon/icon_82.svg);
   position: absolute;
   left: 0;
   top: 0;
@@ -7819,7 +7819,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   margin-bottom: 20px;
 }
 .product-details-one .product-review-tab .tab-content .product-feature li:before {
-  content: url(../images/icon/icon_83.svg);
+  content: url(../portfolio-ux/images/icon/icon_83.svg);
   position: absolute;
   left: 0;
   top: 0;
@@ -8305,7 +8305,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 }
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Hero Banner Ten ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .hero-banner-ten {
-  background: url(../images/media/img_74.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_74.jpg) no-repeat center;
   background-size: cover;
   position: relative;
   min-height: 100vh;
@@ -8812,7 +8812,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 }
 /*^^^^^^^^^^^^^^^^^^^^^ Form Section Two ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .form-section-two {
-  background: url(../images/media/img_73.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_73.jpg) no-repeat center;
   background-size: cover;
   min-height: 100vh;
   padding: 120px 0;
@@ -8917,7 +8917,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   position: relative;
 }
 .ui-list-item-one li:before {
-  content: url(../images/icon/icon_95.svg);
+  content: url(../portfolio-ux/images/icon/icon_95.svg);
   position: absolute;
   left: 0;
   top: -1px;
@@ -8932,7 +8932,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   position: relative;
 }
 .ui-list-item-two li:before {
-  content: url(../images/icon/icon_96.svg);
+  content: url(../portfolio-ux/images/icon/icon_96.svg);
   position: absolute;
   left: 0;
   top: -1px;
@@ -9063,7 +9063,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .vcamp-footer-four.dark-bg .footer-nav li>a {color: rgba(255, 255, 255, 0.75);}
 /*^^^^^^^^^^^^^^^^^^^^^ Vcamp Feature Section Twelve ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .vcamp-feature-section-twelve {
-  background: url(../images/media/img_90.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_90.jpg) no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -9470,7 +9470,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   left: 0;
   right: 0;
   height: 59%;
-  background: url(../images/media/img_116.jpg) no-repeat top center;
+  background: url(../portfolio-ux/images/media/img_116.jpg) no-repeat top center;
   background-size: cover;
   z-index: -1;
 }
@@ -10142,7 +10142,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   position: relative;
 }
 .hero-banner-twelve .hero-heading:before {
-  content: url(../images/shape/shape_64.svg);
+  content: url(../portfolio-ux/images/shape/shape_64.svg);
   position: absolute;
   left: -22px;
   top: -68px;
@@ -10253,7 +10253,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 /*^^^^^^^^^^^^^^^^^^^^^ Theme Hero Banner Thirteen ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .hero-banner-thirteen {
   position: relative;
-  background: url(../images/shape/bg-3.png) no-repeat center;
+  background: url(../portfolio-ux/images/shape/bg-3.png) no-repeat center;
   background-size: cover;
   padding: 225px 0 35px;
   color: #fff;
@@ -10521,7 +10521,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .accordion-style-five .accordion-button:not(.collapsed)::after {content: "-";}
 /*^^^^^^^^^^^^^^^^^^^^^ Vcamp Fancy Banner Ten ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-banner-ten {
-  background: url(../images/media/img_131.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_131.jpg) no-repeat center;
   background-size: cover;
   height: 650px;
   position: relative;
@@ -10541,7 +10541,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 /*^^^^^^^^^^^^^^^^^^^^^ Feedback Section Fourteen ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .feedback-section-fourteen {
   position: relative;
-  background: url(../images/shape/bg-3.png) no-repeat center;
+  background: url(../portfolio-ux/images/shape/bg-3.png) no-repeat center;
   background-size: cover;
   padding: 225px 0 85px;
   margin-top: -135px;
@@ -10659,7 +10659,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .blog-meta-six .read-more:hover {color: #FF5332;}
 /*^^^^^^^^^^^^^^^^^^^^^ Vcamp Fancy Banner Eleven ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-banner-eleven {
-  background: url(../images/media/img_132.jpg) no-repeat center;
+  background: url(../portfolio-ux/images/media/img_132.jpg) no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -10796,7 +10796,7 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   position: relative;
 }
 .hero-banner-fourteen .hero-heading:before {
-  content: url(../images/shape/shape_64.svg);
+  content: url(../portfolio-ux/images/shape/shape_64.svg);
   position: absolute;
   left: -22px;
   top: -80px;
