@@ -143,19 +143,19 @@ font-size: 28px;
 
 
 .bg-marketplace {
-  background-image: url('/portfolio-ux/portfolio-ux/images/hero_bgr_market.jpg');
+  background-image: url('/portfolio-ux/images/hero_bgr_market.jpg');
   background-position-y: -60px;
 }
 
 .bg-notif {
-   background: url('/portfolio-ux/portfolio-ux/images/hero_bgr_csnotif2.png');
+   background: url('/portfolio-ux/images/hero_bgr_csnotif2.png');
    background-size: cover;
   /* background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.85)), url('/portfolio-ux/images/hero_bgr_csnotif.png'); */
 }
 
 
 .bg-govex {
-  background-image: url('/portfolio-ux/portfolio-ux/images/hero_bgr_csgovex.png');
+  background-image: url('/portfolio-ux/images/hero_bgr_csgovex.png');
 }
 
 
